@@ -52,7 +52,7 @@ class Rename:
                                         print("Last Name: " + str(lastName))
                                         print("File Name: " + str(filename))
 
-                        print("FILE RENAMING DONE!") # When the program is done
+                        print("File renaming done!") # When the program is done
 
 if(__name__ == "__main__"):
         rename = Rename()
